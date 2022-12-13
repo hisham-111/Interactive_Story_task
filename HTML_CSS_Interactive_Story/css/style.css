@@ -91,15 +91,18 @@ section div p {
     width: 82%;
     margin-left: -15px;
     margin-right: 29px;
+    font-size: 18px;
+    font-weight: bold; 
+    
   
 
 
 }
-.one  p{
-   font-weight: bold; 
-   color: black;
-   
+
+.one p {
+    color: black;
 }
+
 
 .two{
     background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/130403105333-robot-terminator.jpg?q=w_3695,h_2652,x_0,y_0,c_fill");
@@ -110,9 +113,12 @@ section div p {
     width: 85%;
     margin-left: -57px;
     margin-right: 29px;
+    font-size: 18px;
+    font-weight: bold;
  
 
 }
+
 
 .three{
     background-image: url("https://www.pixel4k.com/wp-content/uploads/2020/01/nightlife-momentum_1578254750.jpg");
@@ -123,6 +129,9 @@ section div p {
     width: 85%;
     margin-left: -54px;
     margin-right: 29px;
+    font-size: 18px;
+    font-weight: bold;
+
   
 
 }
@@ -136,6 +145,8 @@ section div p {
     width: 85%;
     margin-left: -55px;
     margin-right: 29px;
+    font-size: 18px;
+    font-weight: bold;
    
 
 }
@@ -150,7 +161,8 @@ section div p {
     width: 85%;
     margin-left: -55px;
     margin-right: 29px;
-    
+    font-size: 18px;
+    font-weight: bold;
 }
 
 
@@ -183,6 +195,32 @@ footer{
     margin-top: 30px;
     
 }
+
+.Bstart{
+    text-decoration: none;
+    width: 70px ;
+    height: 70px;
+    border-radius: 50%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border: 1px solid white;
+}
+
+.Bstart a {
+    text-decoration: none;
+    color: white;
+    margin: 0 16px;
+    font-weight: bold;
+
+}
+
+.Bstart:hover {
+   background-color: #800707;
+   font-size: 20px;
+}
 .name{
     font-size: 30px;
     margin-left: 50px;
@@ -201,12 +239,15 @@ img{
 }
 
 .social-link{
-    margin-right:100px;
+    margin-right:85px;
 }
 
 .social-link svg{
     margin-right: 20px;
 }
+ .social-link a {
+    margin-top: 25px;
+ }
 svg{
 width: 40px;
 }
