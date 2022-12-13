@@ -1,6 +1,6 @@
 # Interactive_Story_task
 
-
+###This story is made it by AbdulHadi , Hisham , Taghreed and Jad 
 
 
 #Starting of the world war
@@ -10,4 +10,4 @@
 
 
 
-#Our game can take several scenarios.. all of them are dependent on the click of a button within seconds.. Of course I am talking about the button attached to the nuclear bomb.. In the best case, God will prevent this button from working... This will be branch1.. But if you are not lucky  .. Putin will press the button on his desk and unleash an army of crazy, highly intelligent robots.. and then we will be in front of a devastating catastrophe.. branch2 depicts us a fierce attack of robots using tech weapons, and then humans will confront them and a major epic will take place in which human life will die and dominate  Robots or branch3 can spawn where humans can defeat robots and regenerate again.. For branch 4 and branch5 it will be less dangerous.. Fortunately our chefs d'oeuvre will not be able to use tech weapons but they will attack in large numbers and with  They will be defeated, but the story will not end here, because the bomb will lead to the spread of a dangerous disease. Either they find an antidote for it like branch5, or it will be the end of humanity and we will be in branch4.
+###Our game can take several scenarios.. all of them are dependent on the click of a button within seconds.. Of course I am talking about the button attached to the nuclear bomb.. In the best case, God will prevent this button from working... This will be branch1.. But if you are not lucky  .. Putin will press the button on his desk and unleash an army of crazy, highly intelligent robots.. and then we will be in front of a devastating catastrophe.. branch2 depicts us a fierce attack of robots using tech weapons, and then humans will confront them and a major epic will take place in which human life will die and dominate  Robots or branch3 can spawn where humans can defeat robots and regenerate again.. For branch 4 and branch5 it will be less dangerous.. Fortunately our chefs d'oeuvre will not be able to use tech weapons but they will attack in large numbers and with  They will be defeated, but the story will not end here, because the bomb will lead to the spread of a dangerous disease. Either they find an antidote for it like branch5, or it will be the end of humanity and we will be in branch4.
